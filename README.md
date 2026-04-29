@@ -1,4 +1,4 @@
-# 👋 안녕하세요, 백엔드 지망생 박서연입니다!
+# 👋 안녕하세요, 박서연입니다!
 
 <p align="left">
   <img src="https://img.shields.io/badge/Ajou%20Univ-Cyber%20Security-blue?style=flat-square&logo=Skyliner&logoColor=white"/>
